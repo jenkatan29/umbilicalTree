@@ -1,0 +1,11 @@
+Model Information:
+* title:	tree63-pointcloud
+* source:	https://sketchfab.com/3d-models/tree63-pointcloud-080483a68630459b87ac4cb97bf062c3
+* author:	mmsroadsidetree (https://sketchfab.com/mmsroadsidetree)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "tree63-pointcloud" (https://sketchfab.com/3d-models/tree63-pointcloud-080483a68630459b87ac4cb97bf062c3) by mmsroadsidetree (https://sketchfab.com/mmsroadsidetree) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
